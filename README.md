@@ -1,16 +1,16 @@
 # passport_scanner
 
-A new Flutter application.
+A passport scanner flutter application for task of Ajackus.
 
-## Getting Started
+# Android Requirements-
+  - Android API 21 and above
+  - Camera permissions.
+  - Microphone permission
 
-This project is a starting point for a Flutter application.
+# Tested on Android Galaxy S9
 
-A few resources to get you started if this is your first Flutter project:
+# Libraries Used
+  - camera - To open camera ( Needs Android API 21 and above )
+  - path & path_provider - Not used here .Kept for future scope to store image in storage for scanning document.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![] (https://raw.githubusercontent.com/mybytecode/passport_scanner/doc/gif.gif)
