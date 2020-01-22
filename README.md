@@ -13,4 +13,4 @@ A passport scanner flutter application for task of Ajackus.
   - camera - To open camera ( Needs Android API 21 and above )
   - path & path_provider - Not used here .Kept for future scope to store image in storage for scanning document.
 
-![] (https://raw.githubusercontent.com/mybytecode/passport_scanner/doc/gif.gif)
+![] (https://github.com/mybytecode/passport_scanner/blob/master/doc/gif.gif)
